@@ -5,6 +5,7 @@
     grid-template-rows: repeat(8, 60px);
     gap: 0;
 }
+
 .square {
     width: 60px;
     height: 60px;
@@ -14,9 +15,11 @@
     font-size: 2em;
     cursor: pointer;
 }
+
 .white {
     background-color: #eee;
 }
+
 .black {
     background-color: #555;
     color: white;
